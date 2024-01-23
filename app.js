@@ -22,6 +22,7 @@ function createCard(details) {
     { key: "behance", icon: "uil uil-behance" },
     { key: "email", icon: "uil uil-envelope" },
     { key: "instagram", icon: "uil uil-instagram" },
+    { key: "youtube", icon: "uil uil-youtube" },
   ];
 
   // Iterate through the social media platforms and add icons if links are provided
