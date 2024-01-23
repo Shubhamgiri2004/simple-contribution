@@ -1,3 +1,5 @@
+// Use function for the better reusability and flexibility
+function createInfiSet(containerId, sets, spanCount) {
 const boxContainer = document.getElementById('boxContainer');
 
         // Create 2 sets of 'infi' elements
@@ -14,3 +16,4 @@ const boxContainer = document.getElementById('boxContainer');
             boxContainer.appendChild(infiDiv);
         }
   
+}
